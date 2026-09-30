@@ -1,0 +1,12 @@
+đây là trò chơi xúc xắc
+nó viết từ C#
+tôi đã biên dịch file ra cho bạn
+mã tôi đã đăng lên 
+bạn  muốn chỉnh sửa và biên dịch?
+bạn hãy cài visual studio và chọn mục có C#
+cỡ khoảng 8.6GB
+khi cài xong bạn hãy mở file lên 
+khi  chỉnh sửa xong file 
+thì bạn biên dịch file bằng cách mở command prompt chọn mục run as administrator
+ở mục C:\Users\tên user của bạn\source\repos\tên thư mục bạn đặt tên\tên thư mục bạn đặt tên
+biên dịch xong nó sẽ ở trong mục bin hoặc obj
