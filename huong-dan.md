@@ -5,7 +5,7 @@
 ## 🚀 Tính năng trò chơi
 - Tự động quay số ngẫu nhiên từ 1 đến 6 cực kỳ chuẩn xác.
 - Đổi màu nền giao diện may mắn.
-- Có hệ thống logic đưa ra lời khuyên/lời chúc dựa trên số điểm bạn tung được (Săn tìm số 6 Độc Đắc!).
+- Có hệ thống logic đưa ra lời khuyên/lời chúc dựa trên số điểm bạn tung được.
 
 ## 💻 Cách chơi trên máy tính của bạn
 1. Tải file **`GameDice.exe`** ở danh sách phía trên về máy tính của bạn.
